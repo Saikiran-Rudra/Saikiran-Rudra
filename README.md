@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Saikiran Rudra</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Learning AI/ML & IoT</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=👨‍💻%20Solving%20real-life%20problems;🌱%20Learning%20AI%20and%20IoT;🧠%20Leading%20Student%20Developer%20Club;🚀%20Freelancer&center=true&width=440&height=45&font=Fira%20Code&pause=1000&color=F75000" alt="Typing SVG" />
-</p>
 
 ---
 
