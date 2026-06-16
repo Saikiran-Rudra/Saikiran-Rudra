@@ -10,10 +10,6 @@
   <a href="mailto:rudrasaikiran66@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saikiran-Rudra&label=Profile+Views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
