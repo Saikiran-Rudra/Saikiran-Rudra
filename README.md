@@ -1,15 +1,17 @@
-<!-- Profile README for Saikiran-Rudra -->
 <h1 align="center">Hi, I'm Saikiran Rudra 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer → AI-Powered Web Applications</b><br/>
-  React.js · Next.js · Node.js · MongoDB · LLM Integration
+  <b>Full-Stack Developer transitioning into AI Engineering</b><br/>
+  Building AI-Powered Web Apps with Next.js · Node.js · MongoDB · LLMs
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saikiran-rudra/">LinkedIn</a> •
-  <a href="[https://skill2career-aii.netlify.app](https://saikiranrudra-dev.netlify.app/)">Portfolio</a> •
   <a href="mailto:rudrasaikiran66@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saikiran-Rudra&label=Profile+Views" />
 </p>
 
 ---
@@ -17,67 +19,85 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Engineering @ Bhagwan Mahavir University, Surat (2026)
-- 💼 Ex-Software Engineer Intern @ **TechSonance InfoTech LLP** — built a production GST/ERP Billing SaaS used by real businesses
-- 🤖 Transitioning into **AI Engineering** — hands-on with LLM APIs, AI Agents, OCR pipelines, and workflow automation
-- 🚀 I build things that ship — from UI to deployment, solo or in teams
+- 💼 Ex-Software Engineer Intern @ **TechSonance InfoTech LLP** — shipped production ERP SaaS with OCR pipelines, WhatsApp bot & AI automation
+- 🤖 Transitioning into AI Engineering — hands-on with LLM APIs, AI Agents, and workflow automation
+- 🚀 I build and ship — frontend, backend, deployment, solo or in teams
 - 🏆 **1st Rank — SIH 2025 Internal Hackathon**
-- 📍 Surat, Gujarat — open to relocation
+- 📍 Surat, Gujarat | Open to Remote \& Relocation
+
+---
+
+## 🎯 Highlights
+
+✅ Shipped production ERP \& GST Billing SaaS used by real businesses
+
+✅ Built OCR pipeline for invoice data extraction and ERP auto-fill
+
+✅ Developed AI career guidance platform with LLM integration — solo
+
+✅ Built WhatsApp automation bot for business sales workflows
+
+✅ End-to-end ownership — UI/UX, frontend, backend, database, deployment
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI & Automation**
-`LLM APIs` `AI Agents` `Prompt Engineering` `n8n` `OCR` `RAG (Learning)` `Docker`
+**AI \& Automation**
+`LLM APIs` `AI Agents` `Prompt Engineering` `OCR` `n8n` `Docker` `RAG (Learning)`
 
 **Frontend**
 `React.js` `Next.js` `JavaScript (ES6+)` `Tailwind CSS` `HTML5` `CSS3`
 
 **Backend**
-`Node.js` `Express.js` `REST APIs` `Zod` `Mongoose`
+`Node.js` `Express.js` `REST APIs` `Mongoose` `Zod`
 
-**Database & Tools**
+**Database \& Tools**
 `MongoDB` `Git` `GitHub` `Vercel` `Netlify` `Zustand` `React Query`
+
+---
+
+## 🌱 Currently Learning
+
+- Retrieval-Augmented Generation (RAG)
+- AI Agents \& Agentic Workflows (LangGraph)
+- Model Context Protocol (MCP)
+- Docker for AI Deployments
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 [Skill-2-Career AI](https://skill2career-aii.netlify.app)
-> LLM-powered career guidance platform with resume review, mock interviews, job insights, and scholarship eligibility
-
-- Sole developer — handled UI/UX, frontend, backend, and deployment end-to-end
+AI-powered career guidance platform with resume review, mock interviews, job insights, and scholarship eligibility.
+- Sole developer — UI/UX, frontend, backend, and deployment handled independently
 - Integrated LLM APIs for real-time personalized career feedback
-- **Stack:** Next.js · Node.js · MongoDB · LLM APIs
+- `Next.js` `Node.js` `MongoDB` `LLM APIs`
+
+---
+
+### 🧾 [GST/ERP Billing SaaS](https://hisaabkitaab.techsonance.co.in/) *(Internship — NDA)*
+Cloud-based ERP and billing platform for Indian businesses — GST invoicing, inventory, and accounting.
+- Built OCR pipeline to extract invoice data and auto-fill ERP forms
+- Developed WhatsApp bot for automated sales and business workflows
+- `Next.js` `Node.js` `MongoDB` `Zustand` `Tailwind CSS`
+- *(Code under NDA — live demo available)*
 
 ---
 
 ### 🏆 [Alumni Connect Portal](https://sih-alumni-connect-portal.netlify.app/)
-> Student-alumni networking platform — Won 1st Rank at SIH 2025 Internal Hackathon
-
-- Built for Smart India Hackathon 2025 — profiles, updates, and community features
-- Recognized for innovation and execution quality out of all competing teams
-- **Stack:** React.js · Node.js · MongoDB
-
----
-
-### 🧾 GST/ERP Billing SaaS *(Internship — NDA)*
-> Cloud-based ERP and billing platform for Indian businesses — [Live Demo](https://hisaabkitaab.techsonance.co.in/)
-
-- Built at TechSonance InfoTech LLP — GST invoicing, inventory, accounting ledgers
-- Developed WhatsApp bot for automated sales workflows
-- Built OCR pipeline to extract text from invoice images and auto-fill ERP forms
-- **Stack:** Next.js · Node.js · MongoDB · Zustand · Tailwind CSS
-- *(Code under NDA — live demo available)*
+Student-alumni networking platform — **Won 1st Rank at SIH 2025 Internal Hackathon.**
+- Profiles, updates, and community features built for Smart India Hackathon 2025
+- `HTML` `CSS` `JavaScript`
 
 ---
 
 ## 📜 Certifications
 
-- 🤖 Introduction to Agentic AI — **Anthropic** (Mar 2026)
-- 🧠 Generative AI Mastermind & Prompt Engineering — **Cognitive Class** (2025)
-- 📊 McKinsey Forward Program — **McKinsey & Company** (Dec 2025)
-- ⚙️ SAP Code Unnati — Advanced Certification in Emerging Technologies — **Edunet Foundation** (2025)
+- 🤖 Introduction to Agentic AI — **Anthropic** (2026)
+- 🧠 Generative AI Mastermind \& Prompt Engineering — **Cognitive Class** (2025)
+- 📊 McKinsey Forward Program — **McKinsey \& Company** (2025)
+- ⚙️ SAP Code Unnati — Emerging Technologies — **Edunet Foundation** (2025)
 
 ---
 
@@ -92,9 +112,6 @@
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **Full-Stack, React.js, MERN Stack, or AI Engineering roles** — open to remote and relocation opportunities.
+Open to opportunities in **AI Engineering, Full-Stack, MERN Stack, React.js/Next.js Development.**
 
-📩 rudrasaikiran66@gmail.com | [LinkedIn](https://www.linkedin.com/in/saikiran-rudra/)
-
-
-
+📩 rudrasaikiran66@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/saikiran-rudra/)
