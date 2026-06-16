@@ -64,7 +64,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [Skill-2-Career AI](https://skill2career-aii.netlify.app)
+### 🤖 [Skill-2-Career AI](https://skill-2-career-ai.vercel.app/)
 AI-powered career guidance platform with resume review, mock interviews, job insights, and scholarship eligibility.
 - Sole developer — UI/UX, frontend, backend, and deployment handled independently
 - Integrated LLM APIs for real-time personalized career feedback
